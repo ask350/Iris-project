@@ -30,7 +30,7 @@ st.set_page_config(page_title="Iris Project")
 
 # Adding title to the webpage
 st.title("Iris End to End Project")
-st.subheader("By Utkarsh Gaikwad")
+st.subheader("By Amit Kharote")
 
 # Take user input
 sep_len = st.number_input("Sepal Length", min_value=0.00, step=0.01)
